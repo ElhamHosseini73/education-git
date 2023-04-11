@@ -1,5 +1,4 @@
 user = "SayidHosseini"
 password = "123456sayid"
-city="mashhad"
-
-
+city = "mashhad"
+country = "IRAN"
